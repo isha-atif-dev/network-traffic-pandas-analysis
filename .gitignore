@@ -1,0 +1,9 @@
+# Raw data (large files)
+data/raw/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
