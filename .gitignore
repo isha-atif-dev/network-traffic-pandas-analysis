@@ -1,4 +1,5 @@
 # Raw data (large files)
+data/processed/
 data/raw/
 
 # Python cache
